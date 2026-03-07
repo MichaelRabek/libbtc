@@ -25,6 +25,7 @@ libtool
 .deps/
 .dirstamp
 build-aux/
+.build/
 *.lo
 *.o
 *~
